@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)nice3point.revit.build.tasks\2.0.2\build\Nice3point.Revit.Build.Tasks.targets" Condition="Exists('$(NuGetPackageRoot)nice3point.revit.build.tasks\2.0.2\build\Nice3point.Revit.Build.Tasks.targets')" />
+  </ImportGroup>
+</Project>

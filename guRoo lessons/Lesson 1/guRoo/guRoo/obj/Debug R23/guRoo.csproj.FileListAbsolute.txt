@@ -1,0 +1,14 @@
+D:\RV Revit\BG\C#\guRoo\guRoo\bin\Debug R23\guRoo.dll
+D:\RV Revit\BG\C#\guRoo\guRoo\bin\Debug R23\guRoo.pdb
+D:\RV Revit\BG\C#\guRoo\guRoo\bin\Debug R23\JetBrains.Annotations.dll
+D:\RV Revit\BG\C#\guRoo\guRoo\bin\Debug R23\Nice3point.Revit.Extensions.dll
+D:\RV Revit\BG\C#\guRoo\guRoo\bin\Debug R23\Nice3point.Revit.Toolkit.dll
+D:\RV Revit\BG\C#\guRoo\guRoo\obj\Debug R23\guRoo.csproj.AssemblyReference.cache
+D:\RV Revit\BG\C#\guRoo\guRoo\obj\Debug R23\guRoo.g.resources
+D:\RV Revit\BG\C#\guRoo\guRoo\obj\Debug R23\guRoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\RV Revit\BG\C#\guRoo\guRoo\obj\Debug R23\guRoo.AssemblyInfoInputs.cache
+D:\RV Revit\BG\C#\guRoo\guRoo\obj\Debug R23\guRoo.AssemblyInfo.cs
+D:\RV Revit\BG\C#\guRoo\guRoo\obj\Debug R23\guRoo.csproj.CoreCompileInputs.cache
+D:\RV Revit\BG\C#\guRoo\guRoo\obj\Debug R23\guRoo.csproj.Up2Date
+D:\RV Revit\BG\C#\guRoo\guRoo\obj\Debug R23\guRoo.dll
+D:\RV Revit\BG\C#\guRoo\guRoo\obj\Debug R23\guRoo.pdb
