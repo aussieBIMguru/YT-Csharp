@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RV Revit\\BG\\C#\\guRoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA998C5-DDB2-4796-A5C4-308594FAD35D}|guRoo\\guRoo.csproj|d:\\rv revit\\bg\\c#\\guroo\\guroo\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA998C5-DDB2-4796-A5C4-308594FAD35D}|guRoo\\guRoo.csproj|solutionrelative:guroo\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA998C5-DDB2-4796-A5C4-308594FAD35D}|guRoo\\guRoo.csproj|d:\\rv revit\\bg\\c#\\guroo\\guroo\\commands\\general\\cmds_general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA998C5-DDB2-4796-A5C4-308594FAD35D}|guRoo\\guRoo.csproj|solutionrelative:guroo\\commands\\general\\cmds_general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cmds_General.cs",
+              "DocumentMoniker": "D:\\RV Revit\\BG\\C#\\guRoo\\guRoo\\Commands\\General\\Cmds_General.cs",
+              "RelativeDocumentMoniker": "guRoo\\Commands\\General\\Cmds_General.cs",
+              "ToolTip": "D:\\RV Revit\\BG\\C#\\guRoo\\guRoo\\Commands\\General\\Cmds_General.cs",
+              "RelativeToolTip": "guRoo\\Commands\\General\\Cmds_General.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:56:59.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\RV Revit\\BG\\C#\\guRoo\\guRoo\\Application.cs",
+              "RelativeDocumentMoniker": "guRoo\\Application.cs",
+              "ToolTip": "D:\\RV Revit\\BG\\C#\\guRoo\\guRoo\\Application.cs",
+              "RelativeToolTip": "guRoo\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T02:51:49.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
